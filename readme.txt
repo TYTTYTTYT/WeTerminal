@@ -7,8 +7,9 @@ Part-One: auto chat management
 2. automatically download pictures, files to a directory which user has setted. If possible insert the picture into chat logs file.
 
 Part-two: remote weTerminal:
-1. identify orders from mobile phones and materialize transfer files to friends or chat groups in wechat from mac, and arrange files and directories by phone
+1. identify orders from mobile phones and materialize transfering files to friends or chat groups in wechat from mac, and arrange files and directories by phone
 2. if possible, donwnload the link from message
+3. download chapters from official accounts
 
 Part-three: GUI and auto bot
 1. auto reply to friend and auto massage sender
