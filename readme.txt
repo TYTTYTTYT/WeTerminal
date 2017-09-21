@@ -1,9 +1,5 @@
 WeTerminal is a application based on itchat and python, whose target is to use wechat on mobile phones to countrol mac and use mac to manage contents in wechat
-<<<<<<< HEAD
 
-=======
-
->>>>>>> part1
 Task List:
 
 Part-One: auto chat management
